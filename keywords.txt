@@ -1,0 +1,11 @@
+python
+leadership
+Java
+JavaScript
+HTML
+CSS
+Database
+Web development
+Agile
+Scrum
+Problem-solving
