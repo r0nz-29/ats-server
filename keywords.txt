@@ -1,11 +1,69 @@
-python
-leadership
 Java
-JavaScript
-HTML
-CSS
-Database
-Web development
+Python
+C++
+JavaScript 
+Ruby
 Agile
 Scrum
-Problem-solving
+Object-oriented programming
+Angular
+React 
+Vue.js
+iOS
+Android
+SQL
+NoSQL
+AWS
+Azure 
+Google Cloud Platform
+CI/CD
+Docker
+Kubernetes
+Data structures and algorithms
+Git 
+SVN
+Test-driven development
+Continuous integration
+Continuous delivery
+API design and implementation
+Microservices architecture
+Front-end development
+HTML
+CSS
+Back-end development
+Node.js
+Django 
+Flask
+Object-relational mapping
+RESTful web services
+Scalability and performance optimization
+Security best practices
+Machine learning and data analysis
+Natural language processing (NLP)
+Computer vision
+Artificial intelligence
+Big data technologies
+Virtualization and containerization
+Software testing and quality assurance
+Debugging and troubleshooting
+Code review and code quality analysis
+Code refactoring
+Software architecture and design patterns
+Dependency management
+Software documentation
+Project management
+Time management
+Communication skills
+Interpersonal skills
+Problem-solving skills
+Creativity and innovation
+Learning agility
+Self-motivation and self-management
+Teamwork and collaboration
+Leadership skills
+Customer-oriented mindset
+User experience (UX) design
+User interface (UI) design
+Accessibility and inclusivity
+Cross-functional collaboration
+Business acumen and industry knowledge
